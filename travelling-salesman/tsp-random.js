@@ -22,7 +22,7 @@ function draw(){
 	}
 
 	stroke(255);
-	strokeWeight(2);
+	strokeWeight(1);
 	noFill();
 	beginShape();
 	for(let i=0; i<cities.length; i++){
